@@ -1,0 +1,6 @@
+2024/10/12-05:56:28.886 2b29 Reusing MANIFEST /home/antonio/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/10/12-05:56:28.915 2b29 Recovering log #10
+2024/10/12-05:56:28.917 2b29 Reusing old log /home/antonio/.config/vesktop/sessionData/Local Storage/leveldb/000010.log 
+2024/10/12-06:09:15.506 2b24 Level-0 table #14: started
+2024/10/12-06:09:15.510 2b24 Level-0 table #14: 32605 bytes OK
+2024/10/12-06:09:15.516 2b24 Delete type=0 #10
