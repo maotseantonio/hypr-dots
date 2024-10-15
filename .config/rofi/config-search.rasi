@@ -1,12 +1,12 @@
 /* ---- 💫 https://github.com/JaKooLit 💫 ---- */
 /* Rofi Config for Google Search) */
 
-@import "~/.config/rofi/master-config.rasi"  
+@import "~/.config/rofi/config.rasi"  
 
 /* ---- Window ---- */
 window {
 	width: 40%;
-    y-offset: 6px;
+    y-offset: 10px;
     location: north;
 }
 
@@ -17,7 +17,7 @@ inputbar {
 
 /* ---- Mainbox ---- */
 mainbox {
-	padding: 0px;
+	padding: 20px;
     children: [ "entry"];
 }
 

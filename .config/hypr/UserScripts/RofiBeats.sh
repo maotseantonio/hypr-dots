@@ -91,8 +91,7 @@ play_online_music() {
 }
 
 # Check if an online music process is running and send a notification, otherwise run the main function
-#pkill mpv &&
-  notify-send -u low -i "$iDIR/music.png" "Music stopped" || {
+pkill mpv && notify-send -u low -i "$iDIR/music.png" "Music stopped" || {
 
 # Prompt the user to choose between local and online music
 user_choice=$(printf "Play from Online Stations\nPlay from Music Folder\nShuffle Play from Music Folder" | rofi -dmenu -config ~/.config/rofi/config-rofi-Beats-menu.rasi -p "Select music source")
