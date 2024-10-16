@@ -191,7 +191,7 @@
   "bar.workspaces.workspaces": 8,
   "bar.workspaces.workspaceIconMap": {
     "1": {
-      "icon": "󰄛",
+      "icon": "",
       "color": "#f38ba8"
     },
     "2": {
@@ -199,7 +199,7 @@
       "color": "#74c7ec"
     },
     "3": {
-      "icon": "󰙯",
+      "icon": "",
       "color": "#a6e3a1"
     },
     "4": {
