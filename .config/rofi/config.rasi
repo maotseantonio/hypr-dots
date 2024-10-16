@@ -19,7 +19,7 @@ window {
     border-color: @foreground;
     border-radius: 12px;
 
-    background-color: #11111b ;
+    background-color: #1E1E2E ;
     padding: 0px;
 }
 
